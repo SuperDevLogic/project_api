@@ -80,6 +80,6 @@ Add video streaming capabilities.
 Implement a "like" feature for movies and comments.
 Acknowledgements
 Writing Better Functions => https://youtu.be/yatgY4NpZXE?si=y8BZXcnqh3S_f6r7
-Connecting PostgreSQL Efficiently => https://youtu.be/398DuQbQJq0?si=8ey60aTKwox61bSZ
+Connecting mongodb Efficiently =>https://youtu.be/QkGqjPFIGCA?si=N9MkNTavzLfhfi8d
 Special thanks to my instructor, Rotimi Akanni, for his guidance throughout this project.
 
